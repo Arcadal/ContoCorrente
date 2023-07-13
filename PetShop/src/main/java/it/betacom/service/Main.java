@@ -11,8 +11,9 @@ public class Main {
 		
 		
 		//metodo.inserisci();
-		metodo.importaCSV("C:\\Users\\Betacom\\Documents\\Workspace-Eclipse\\PetShop\\documenti\\PetShop_dati.csv");
-		
+		//metodo.importaCSV("C:\\Users\\Betacom\\Documents\\Workspace-Eclipse\\PetShop\\documenti\\PetShop_dati.csv");
+		metodo.generaReport1();
+		metodo.generaReport2();
 		
 		metodo.chiusura();
 		

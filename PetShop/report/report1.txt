@@ -1,0 +1,22 @@
+Cliente: Marco Rossi 
+1/3/2023 - Matricola: 345432 - Nome: Luna - Prezzo di vendita: 50.0
+3/1/2022 - Matricola: 455555 - Nome: Billy - Prezzo di vendita: 20.0
+4/1/2022 - Matricola: 456666 - Nome: Pluto - Prezzo di vendita: 100.0
+
+Cliente: Francesco Bianchi
+5/1/2022 - Matricola: 233344 - Nome:  - Prezzo di vendita: 45.0
+6/1/2022 - Matricola: 233345 - Nome:  - Prezzo di vendita: 10.0
+
+Cliente: Pietro Verdi
+7/1/2022 - Matricola: 356777 - Nome:  - Prezzo di vendita: 15.0
+
+Cliente: Giorgio Rossi 
+8/1/2022 - Matricola: 546777 - Nome: Stella - Prezzo di vendita: 65.0
+19/1/2022 - Matricola: 345439 - Nome: Luna - Prezzo di vendita: 50.0
+
+Cliente: Mirko Pardo
+12/07/2023 - Matricola: 123456 - Nome: Max - Prezzo di vendita: 200.0
+
+Cliente: Guido Curradi
+12/06/2023 - Matricola: 123456 - Nome: Peppino - Prezzo di vendita: 250.0
+
