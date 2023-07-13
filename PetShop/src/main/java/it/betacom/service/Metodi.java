@@ -145,7 +145,7 @@ public class Metodi {
 	
 	public void generaReport2() {
 		
-		String filePath = ".\\report\\ListaVendite.pdf";
+		String filePath = ".\\report\\ListaVendite.txt";
 		
 	    try {
 	        PrintWriter writer = new PrintWriter(new FileWriter(filePath));
