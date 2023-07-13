@@ -1,0 +1,12 @@
+Dati cliente,,,,,Dati  Animale,,,,
+Nome,Cognome,Citta,Tel,indirizzo,Tipo Animale,Nome Animale,Matricola,DataAcquisto,Prezzo
+Marco,Rossi ,Milano ,33498756,via roma 34,Gatto,Luna,345432,1/3/2023,50
+Marco,Rossi ,Milano ,33498756,via roma 34,Criceto,Billy,455555,3/1/2022,20
+Marco,Rossi ,Milano ,33498756,via roma 34,Cane,Pluto,456666,4/1/2022,100
+Francesco,Bianchi,Roma,33500099,via milano 55,Gatto,,233344,5/1/2022,45
+Francesco,Bianchi,Roma,33500099,via milano 55,Pesce,,233345,6/1/2022,10
+Pietro,Verdi,Torino,33356777,via cantore 3,Criceto,,356777,7/1/2022,15
+Giorgio,Rossi ,Bari,33467788,Piazza Italia  4,Gatto,Stella,546777,8/1/2022,65
+Giorgio,Rossi ,Bari,33467789,Piazza Italia  4,Gatto,Luna,345439,19/1/2022,50
+Mirko,Pardo,Torino,12345678,Via Torino 10,Cane,Max,123456,12/07/2023,200
+Guido,Curradi,Roma,12345678,Via Roma 10,Gatto,Peppino,123456,12/06/2023,250
